@@ -66,6 +66,9 @@ textarea,.output {
 	textarea,.output{
 		height: 50svh;
 	}
+	.app{
+		margin-bottom: 3rem;
+	}
 }
 .output {
 	overflow: auto;
